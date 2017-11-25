@@ -1,0 +1,22 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#wrap{
+	margin: 0 auto;
+	position: relative;
+}
+.content{
+	padding: 7px;
+	position: absolute;
+}
+.inner{
+	padding: 10px;
+	border: 1px solid #e5e5e4;
+	border-radius: 5px;
+	box-shadow: 0 0 5px #d5d5d4;
+}
+img{
+	width: 165px;
+	height: auto;
+}
